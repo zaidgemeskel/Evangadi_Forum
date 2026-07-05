@@ -94,7 +94,7 @@
 .questionText pre,
 .answerText pre {
   /* background: #0b1220; dark backdrop complements highlight theme */
-  color: #e6eef6;
+  color: #000;
   padding: 14px;
   /* border-radius: 10px; */
   overflow: auto;
